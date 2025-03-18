@@ -1,0 +1,3 @@
+Smoker with tobacco		335
+Smoker with Match Stick		336
+Smoker with Papers		337
